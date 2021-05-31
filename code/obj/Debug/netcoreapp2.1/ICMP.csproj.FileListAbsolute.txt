@@ -1,0 +1,11 @@
+C:\Work\31433\инфо\НОВ\ICMP-Ping-Tracert-master\bin\Debug\netcoreapp2.1\ICMP.deps.json
+C:\Work\31433\инфо\НОВ\ICMP-Ping-Tracert-master\bin\Debug\netcoreapp2.1\ICMP.runtimeconfig.json
+C:\Work\31433\инфо\НОВ\ICMP-Ping-Tracert-master\bin\Debug\netcoreapp2.1\ICMP.runtimeconfig.dev.json
+C:\Work\31433\инфо\НОВ\ICMP-Ping-Tracert-master\bin\Debug\netcoreapp2.1\ICMP.dll
+C:\Work\31433\инфо\НОВ\ICMP-Ping-Tracert-master\bin\Debug\netcoreapp2.1\ICMP.pdb
+C:\Work\31433\инфо\НОВ\ICMP-Ping-Tracert-master\obj\Debug\netcoreapp2.1\ICMP.csprojAssemblyReference.cache
+C:\Work\31433\инфо\НОВ\ICMP-Ping-Tracert-master\obj\Debug\netcoreapp2.1\ICMP.csproj.CoreCompileInputs.cache
+C:\Work\31433\инфо\НОВ\ICMP-Ping-Tracert-master\obj\Debug\netcoreapp2.1\ICMP.AssemblyInfoInputs.cache
+C:\Work\31433\инфо\НОВ\ICMP-Ping-Tracert-master\obj\Debug\netcoreapp2.1\ICMP.AssemblyInfo.cs
+C:\Work\31433\инфо\НОВ\ICMP-Ping-Tracert-master\obj\Debug\netcoreapp2.1\ICMP.dll
+C:\Work\31433\инфо\НОВ\ICMP-Ping-Tracert-master\obj\Debug\netcoreapp2.1\ICMP.pdb
